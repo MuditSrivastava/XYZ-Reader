@@ -17,9 +17,14 @@
 
 <resources>
     <color name="photo_placeholder">#ccc</color>
-
-    <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#04561A</color>
-    <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
+    <color name="primary">#290047</color>  <!-- 500 -->
+    <color name="primary_dark">#200038</color>  <!-- 700 -->
+    <color name="primary_light">#4c0282</color>
+    <color name="accent">#C51162</color>
+    <color name="white">@android:color/white</color>
+    <color name="article_subtitle">#6000</color>
+    <color name="article_title">#212121</color>
+    <color name="article_byline">#8fff</color>
+    <color name="article_body_text">#424242</color>
 </resources>
