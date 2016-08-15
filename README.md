@@ -3,7 +3,7 @@ Android App redesigned to follow the Material Design guidelines and translate a 
 
 Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
 
-## Concepts I Learned
+## Concepts Learned
 - Understanding the fundamentals of Android design
 - Applying Material Design guidelines to an mobile application
 - Separating an interface into surfaces.
