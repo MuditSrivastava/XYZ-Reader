@@ -1,4 +1,4 @@
-# XYZ Reader
+#<img width="10%" src="https://github.com/MuditSri-2908/XYZ-Reader/blob/master/xyzreader/XYZReader/src/main/res/mipmap-xxhdpi/ic_launcher.png"/>   XYZ Reader
 Android App redesigned to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app
 
 Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
@@ -8,6 +8,11 @@ Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.
 - Applying Material Design guidelines to an mobile application
 - Separating an interface into surfaces.
 - Effectively using transitions and motion.
+
+## Screenshots
+<img width="30%" src="https://github.com/MuditSri-2908/XYZ-Reader/blob/master/Screenshots/device-2016-09-06-015930.png"/>
+<img width="30%" src="https://github.com/MuditSri-2908/XYZ-Reader/blob/master/Screenshots/device-2016-09-06-020005.png"/>
+<img width="30%" src="https://github.com/MuditSri-2908/XYZ-Reader/blob/master/Screenshots/device-2016-09-06-020129.png"/>
 
 ## General Project Guideline
 App conforms to common standards found in the [Android Nanodegree General Project Guidelines](http://udacity.github.io/android-nanodegree-guidelines/core.html)
